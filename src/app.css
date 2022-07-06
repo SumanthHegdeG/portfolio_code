@@ -1,0 +1,29 @@
+section > div {
+  min-height: 95vh;
+}
+
+.btn {
+  border: none;
+  background-color: #72808a;
+}
+.btn:hover {
+  background-color: #a3c4bc;
+}
+
+.btn:focus {
+  border: none;
+  background-color: #72808a;
+  outline: none;
+}
+
+.skill {
+  border-radius: 15px;
+}
+
+.heading {
+  font-size: 4rem;
+  font-weight: 800;
+}
+#footer {
+  background-color: #413c58;
+}
