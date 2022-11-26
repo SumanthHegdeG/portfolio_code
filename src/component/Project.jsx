@@ -11,21 +11,18 @@ const projects = [
     heading: 'Goalsetter',
     img: goalSetter,
     desc: 'WebApplication Developed using MERN allows you to list out the todos , includes CRUD operation with Login- Register Functionality .',
-    live: 'https://goalsetting-su.herokuapp.com/',
+    live: 'https://dirndl-chick.cyclic.app/login',
     backCode: 'https://github.com/SumanthHegdeG/GoalSetting/tree/main/backend',
-    frontCode:
-      'https://github.com/SumanthHegdeG/GoalSetting/tree/main/frontend',
+    frontCode: 'https://github.com/SumanthHegdeG/GoalSetting/tree/main/frontend',
     credentials: { username: 'admin@admin.com', password: 'admin' },
   },
   {
     heading: 'HMart',
     img: ecommerce,
     desc: 'Web Application Developed using MERN(MongoDB Express React Node)stack Allows you to order item , and with Admin CRUD functionality for item , order management with paypal payment interface .',
-    live: 'https://sucommerce.herokuapp.com/',
-    backCode:
-      'https://github.com/SumanthHegdeG/EcommerceHMart/tree/main/backend',
-    frontCode:
-      'https://github.com/SumanthHegdeG/EcommerceHMart/tree/main/frontend',
+    live: 'https://hmart-production.up.railway.app/',
+    backCode: 'https://github.com/SumanthHegdeG/EcommerceHMart/tree/main/backend',
+    frontCode: 'https://github.com/SumanthHegdeG/EcommerceHMart/tree/main/frontend',
     credentials: {
       username: 'admin@admin.com',
       password: 'admin',
@@ -37,10 +34,9 @@ const projects = [
     heading: 'Group-App',
     img: chatapp,
     desc: 'Web Application Developed using MERN(MongoDB Express React Node)stack, with socket.io allows you to Chat within the community.',
-    live: 'https://sumanthgroupchat.netlify.app/',
+    live: 'https://upset-leg-warmers-bear.cyclic.app/login',
     backCode: 'https://github.com/SumanthHegdeG/GroupChatFull/tree/main/server',
-    frontCode:
-      'https://github.com/SumanthHegdeG/GroupChatFull/tree/main/public',
+    frontCode: 'https://github.com/SumanthHegdeG/GroupChatFull/tree/main/public',
     credentials: { username: 'admin1@admin.com', password: 'admin123' },
   },
   {
@@ -49,7 +45,7 @@ const projects = [
     desc: 'Web Application Developed using MERN(MongoDB Express React Node)stack Allows you to order pizza , admin console to add-delete-modify pizzas , order managenent , includes stripe payment Interface.',
     backCode: 'https://github.com/SumanthHegdeG/pizzaApp',
     frontCode: 'https://github.com/SumanthHegdeG/pizzaApp/tree/main/client',
-    live: 'https://pizzasu.herokuapp.com/',
+    live: 'https://concerned-dog-outerwear.cyclic.app/login',
     credentials: {
       username: 'admin@admin.com',
       password: 'admin',
